@@ -1,0 +1,3 @@
+class AdventureAwaits::CLI
+
+end
